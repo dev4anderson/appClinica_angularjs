@@ -1,0 +1,19 @@
+<div ng-controller="Trat as t" class="page">
+    
+    <table class="table"> 
+        <tr>
+            <th>Código</th>
+            <th>Descrição</th>
+            <th>Duração</th>
+        </tr>
+        <tbody ng-repeat="tratamento in t.listaTratamentos">
+            <tr>
+                <td>{{tratamento.codigo}}</td>
+                <td>{{tratamento.descricao}}</td>
+                <td>{{tratamento.duracao}}</td>
+            </tr>    
+        </tbody>
+        
+    </table> 
+    
+</div>    

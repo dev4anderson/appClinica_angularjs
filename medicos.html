@@ -1,0 +1,19 @@
+<div ng-controller="Med as m" class="page">
+    
+    <table class="table"> 
+        <tr>
+            <th>CRM</th>
+            <th>Médico</th>
+            <th>Especialidade</th>
+        </tr>
+        <tbody ng-repeat="medico in m.items">
+            <tr>
+                <td>{{medico.crm}}</td>
+                <td>{{medico.nome}}</td>
+                <td>{{medico.especialidade}}</td>
+            </tr>    
+        </tbody>
+        
+    </table> 
+    
+</div>   

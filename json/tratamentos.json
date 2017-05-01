@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": 1,
+        "descricao": "Cirurgia",
+        "duracao": 2
+    }, 
+    {
+        "codigo": 2,
+        "descricao": "Eletrocardiograma",
+        "duracao": 1
+    } 
+]
