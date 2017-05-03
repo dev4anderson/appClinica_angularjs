@@ -4,22 +4,22 @@ var tratamentos = (function(){
   var listaTratamentos = [
     {
       "codigo": 1,
-      "descricao": "Tratamento para a calvice",
-      "duracao": "30 dias"
+      "descricao": "Tratamento de Gastrite",
+      "duracao": "180 dias"
     },
     {
       "codigo": 2,
       "descricao": "Tratamento para a gripe",
-      "duracao": "7 dias"
+      "duracao": "5 dias"
     },
     {
       "codigo": 3,
-      "descricao": "Tratamento para o cancêr",
+      "descricao": "Fisioterapia",
       "duracao": "6 meses"
     },
     {
       "codigo": 4,
-      "descricao": "Tratamento de rompimento de LCA",
+      "descricao": "Tratamento do coração",
       "duracao": "6 meses"
     }
   ]

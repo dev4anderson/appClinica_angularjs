@@ -1,7 +1,17 @@
 [
     {
-        "crm": 21345,
+        "crm": "21345",
         "nome": "José de Oliveira",
         "especialidade": "Cirurgião Plástico"
+    },
+	{
+        "crm": "21986",
+        "nome": "André Corrêa",
+        "especialidade": "Cardiologista"
+    },
+	{
+        "crm": "02345",
+        "nome": "Olavo Antunes Silva",
+        "especialidade": "Clínico Geral"
     }
 ]
